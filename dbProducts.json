@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Sándwich de helado",
+        "image": "./imagenes/sandwich-helado.jpg",
+        "extraInfo": "Caja 2 pz. (170ml)",
+        "price": "27.68"
+    },
+    {
+        "id": 2,
+        "name": "helado de vainilla",
+        "image": "./imagenes/helado-vainilla.jpg",
+        "extraInfo": "Bote. (700ml)",
+        "price": "45.91"
+    },
+    {
+        "id": 3,
+        "name": "helado surtido rico",
+        "image": "./imagenes/helado-surtido.jpg",
+        "extraInfo": "Caja 6 pz. (720ml)",
+        "price": "35.76"
+    },
+    {
+        "id": 4,
+        "name": "helado de nata",
+        "image": "./imagenes/helado-nata.jpg",
+        "extraInfo": "bote. (750ml)",
+        "price": "45.91"
+    },
+    {
+        "id": 5,
+        "name": "Helado de fresa",
+        "image": "./imagenes/helado-fresa.jpg",
+        "extraInfo": "Bote. (750ml)",
+        "price": "46.14"
+    },
+    {
+        "id": 6,
+        "name": "Helado batido",
+        "image": "./imagenes/helado-batido.jpg",
+        "extraInfo": "1 vaso. (350ml)",
+        "price": "39.22"
+    },
+    {
+        "id": 7,
+        "name": "Helado de nopal",
+        "image": "./imagenes/helado-nopal.jpg",
+        "extraInfo": "vaso 380ml .",
+        "price": "58.83"
+    },
+    {
+        "id": 8,
+        "name": "helado colores y sabores",
+        "image": "./imagenes/helado-colores.jpg",
+        "extraInfo": "Caja 2 pz. (350ml)",
+        "price": "47.30"
+    }
+]
