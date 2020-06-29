@@ -2,56 +2,56 @@
     {
         "id": 1,
         "name": "Sándwich de helado",
-        "image": "https://mega.nz/file/rdFAGIYC#Z5-E91ZhpeWlRmendPtdR4R5BtIujhi1IvlEySjyD_0",
+        "image": "https://live.staticflickr.com/65535/50055783188_e66c710a54.jpg",
         "extraInfo": "Caja 2 pz. (170ml)",
         "price": "27.68"
     },
     {
         "id": 2,
         "name": "helado de vainilla",
-        "image": "./imagenes/helado-vainilla.jpg",
+        "image": "https://live.staticflickr.com/65535/50055800703_05ddfbc5b3_n.jpg",
         "extraInfo": "Bote. (700ml)",
         "price": "45.91"
     },
     {
         "id": 3,
         "name": "helado surtido rico",
-        "image": "./imagenes/helado-surtido.jpg",
+        "image": "https://live.staticflickr.com/65535/50055815068_a596a39b30_n.jpg",
         "extraInfo": "Caja 6 pz. (720ml)",
         "price": "35.76"
     },
     {
         "id": 4,
         "name": "helado de nata",
-        "image": "./imagenes/helado-nata.jpg",
+        "image": "https://live.staticflickr.com/65535/50055818543_b5be064d7c_n.jpg",
         "extraInfo": "bote. (750ml)",
         "price": "45.91"
     },
     {
         "id": 5,
         "name": "Helado de fresa",
-        "image": "./imagenes/helado-fresa.jpg",
+        "image": "https://live.staticflickr.com/65535/50055823053_a8d1a1aff6_n.jpg",
         "extraInfo": "Bote. (750ml)",
         "price": "46.14"
     },
     {
         "id": 6,
         "name": "Helado batido",
-        "image": "./imagenes/helado-batido.jpg",
+        "image": "https://live.staticflickr.com/65535/50055825563_3b6e3f014a_n.jpg",
         "extraInfo": "1 vaso. (350ml)",
         "price": "39.22"
     },
     {
         "id": 7,
         "name": "Helado de nopal",
-        "image": "./imagenes/helado-nopal.jpg",
+        "image": "https://live.staticflickr.com/65535/50056648807_a4ffd8c081_n.jpg",
         "extraInfo": "vaso 380ml .",
         "price": "58.83"
     },
     {
         "id": 8,
         "name": "helado colores y sabores",
-        "image": "./imagenes/helado-colores.jpg",
+        "image": "https://live.staticflickr.com/65535/50055830993_1b5a092708_n.jpg",
         "extraInfo": "Caja 2 pz. (350ml)",
         "price": "47.30"
     }
