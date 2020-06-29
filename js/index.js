@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function getProductsDb() {
-    const url = '../dbProducts.json'
+    const url = '~/dbProductos.json'
 
     return fetch(url)
     .then(response => {
