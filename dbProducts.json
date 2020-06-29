@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Sándwich de helado",
-        "image": "./imagenes/sandwich-helado.jpg",
+        "image": "https://mega.nz/file/rdFAGIYC#Z5-E91ZhpeWlRmendPtdR4R5BtIujhi1IvlEySjyD_0",
         "extraInfo": "Caja 2 pz. (170ml)",
         "price": "27.68"
     },
